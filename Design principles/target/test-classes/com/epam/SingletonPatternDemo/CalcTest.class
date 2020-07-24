@@ -1,0 +1,17 @@
+Êşº¾   4 O
+ & 8
+ 9 :	 % ;       
+
+ 9 <
+ = >       #       -ÿÿÿÿÿÿÿ¼
+ 9 ?       sÿÿÿÿÿÿÿû       B              7
+ 9 @       ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¯       
+ 9 A        B C c -Lcom/epam/SingletonPatternDemo/Calc; <init> ()V Code LineNumberTable LocalVariableTable this 1Lcom/epam/SingletonPatternDemo/CalcTest; check_addition RuntimeVisibleAnnotations Lorg/junit/Test; check_subtraction check_multiplication check_division 
+SourceFile CalcTest.java ) * D E F ' ( G H I J K L H M H N H /com/epam/SingletonPatternDemo/CalcTest java/lang/Object +com/epam/SingletonPatternDemo/Calc getInstance /()Lcom/epam/SingletonPatternDemo/Calc; addition (II)I org/junit/Assert assertEquals (JJ)V subtraction multiplication division ! % &      ' (     ) *  +   :     *· *¸ µ ±    ,   
+      	 -        . /    0 *  +   •     W *´ 
+¶ …¸  *´ KØ¶ …¸  
+*´ ¶ …¸  *´ ½¶ …¸ 	*´ 
+ö¶ …¸ ±    ,          #  5  F  V  -       W . /   1     2    3 *  +   —     Y *´ 
+¶ …¸  *´ KØ¶ …¸  *´ ¶ …¸  *´ ½¶ …¸  *´ 
+ö¶ …¸ ±    ,          #  5  F  X  -       Y . /   1     2    4 *  +   “     U *´ ¶ …¸  *´ ¶ …¸  *´ ¶ …¸  *´ ÷	¶ …¸ 	*´ ¶ …¸ ±    ,           # ! 3 " E # T $ -       U . /   1     2    5 *  +        Q  *´ ¶ "…¸ 	*´ ¶ "…¸ 
+*´ ¶ "…¸  #*´ ¶ "…¸ 	*´ õ¶ "…¸ ±    ,       (  )  * / + @ , P - -       Q . /   1     2    6    7

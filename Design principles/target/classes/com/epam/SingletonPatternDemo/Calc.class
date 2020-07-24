@@ -1,0 +1,12 @@
+Êþº¾   4 
+  	   
+    cal -Lcom/epam/SingletonPatternDemo/Calc; <init> ()V Code LineNumberTable LocalVariableTable this getInstance /()Lcom/epam/SingletonPatternDemo/Calc; StackMapTable addition (II)I a I b subtraction multiplication division 
+SourceFile Calc.java  	   +com/epam/SingletonPatternDemo/Calc java/lang/Object !      
+        	  
+   /     *· ±                        	    
+   =      ² Ç » Y· ³ ² °           	  
+            
+   B     `¬                                         
+   B     d¬                                         
+   B     h¬                                         
+   B     l¬                                          
